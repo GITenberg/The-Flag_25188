@@ -1,0 +1,27 @@
+_repo: The-Flag_25188
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 25188-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Greene, Homer
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '3540'
+    url: http://www.gutenberg.org/2009/agents/3540
+description: ''
+gutenberg_issued: '2008-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25188'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Patriotism -- Juvenile fiction'
+- !lcsh 'World War, 1914-1918 -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Flag
+url: http://www.gutenberg.org/ebooks/25188
